@@ -1,7 +1,9 @@
 # Coding-Challenge-SuperSocial
 A programming challenge to asses the ability of the lead Roblox game developer for Supersocial Inc. 
 
-ANY PROGRAMMING LANGUAGE CAN BE USED TO COMPLETE THE CHALLENGE AND THE SKELETON CODE CAN BE IMPLEMENTED OR IGNORED
+ANY PROGRAMMING LANGUAGE CAN BE USED TO COMPLETE THE CHALLENGE AND THE SKELETON CODE CAN BE IMPLEMENTED OR IGNORED!
+
+They must show proof that the code works, works in the required complexity time and correct use of Git practices is seen.
 
 # Details
 Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
